@@ -63,6 +63,7 @@ namespace StackLinkedListProject
                 p = p.link;
             }
             Console.WriteLine("");
+
         }
     }
 }
