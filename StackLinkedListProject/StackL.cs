@@ -20,6 +20,8 @@ namespace StackLinkedListProject
                 p = p.link;
                 s++;
 
+
+
             }
             return s;
         }
